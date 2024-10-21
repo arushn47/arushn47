@@ -15,8 +15,8 @@ I'm an aspiring full-stack developer and Graphic Design Co-Lead at EV Club, VIT 
 <h3 align="center">🔗 Connect with Me</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/your-profile-link">LinkedIn</a> • 
-<a href="mailto:your-email@example.com">Email</a>
+<a href="https://www.linkedin.com/in/arushn47/" target="blank">LinkedIn</a> • 
+<a href="mailto:arushn.2005@gmail.com" target="blank">Email</a>
 </p>
 
 ---
