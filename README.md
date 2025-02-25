@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Arush! 👋</h1>
 
 <p align="center">
-I'm an aspiring full-stack developer and Technical Lead at EV Club, VIT Bhopal.
+Aspiring Full-Stack Developer | Technical Lead at the EV Club, VIT Bhopal University.
 </p>
 
 ---
