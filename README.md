@@ -66,7 +66,7 @@ A hybrid AI assistant that routes requests between local Ollama models and Gemin
 
 **Vellore Institute of Technology, Bhopal**  
 B.Tech in Computer Science and Engineering | 2023–2027  
-CGPA: 8.01/10
+CGPA: 8.1/10
 
 ## 🤝 Connect With Me
 
